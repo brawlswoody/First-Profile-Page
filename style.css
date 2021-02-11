@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(17, 5, 16);
+  margin: 70px;
+}
+
+div {
+  background-color: rgb(46, 118, 146);
+}
+
+hr {
+  height: 10px;
+  border: whitesmoke, 20px, stroke;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+header {
+  background-position: center;
+}
+
+h1,
+h2 {
+  color: rgb(35, 6, 63);
+  text-align: center;
+}
+
+h1 {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+h2 {
+  font-family: fantasy strong;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(154, 91, 214);
+}
+h6 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(154, 91, 214);
+}
+nav {
+  color: rgb(154, 91, 214);
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: cursive;
+  text-align: center;
+}
+ul {
+  color: cyan;
+  text-align: center;
+  list-style: none;
+}
+
+a:link {
+  color: hsl(120, 79%, 50%);
+}
+a:visited {
+  color: hsl(0, 81%, 38%);
+}
+a:hover {
+  color: hsl(61, 76%, 59%);
+}
+a:active {
+  color: hsl(313, 70%, 58%);
+}
+
+ol {
+  text-align: center;
+}
