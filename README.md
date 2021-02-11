@@ -7,7 +7,7 @@ Home About Contact
 <
 I am a softerware developer living in North Pole, Alaska.
 
-I love to design and creating new things. I am a life long learner who is seeking my bacholors in computer science with focus on software engineering. I am looking forward to future project both of my own and colaborating on larger project with other people. I am always up for a challenage!😎
+I love to design and creating new things. I am a life long learner who is seeking my bacholors in computer science with focus on software engineering. I am looking forward to future projects both of my own and colaborating on larger projects with other developers. I am always up for a good challenage!😎
 
 I also desire to expand my artistic talent from my years of painting and various other mediums to the webdesign and maybe even creating my own apps. I am looking forward to this new career path in tech and the lifetime of learning I will get as a full stack developer.
 
