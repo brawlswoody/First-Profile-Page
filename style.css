@@ -17,8 +17,12 @@ div {
 hr {
   height: 10px;
   border: whitesmoke, 20px, stroke;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 0px;
+  margin-bottom: -40px;
+}
+
+footer {
+  margin-top: -50px;
 }
 
 .center {
@@ -56,6 +60,13 @@ h4 {
   text-align: center;
   text-decoration: underline;
   color: rgb(154, 91, 214);
+}
+
+h5 {
+  margin-top: 50px;
+  color: rgb(154, 91, 214);
+  text-align: center;
+  font-style: italic;
 }
 nav {
   color: rgb(154, 91, 214);
