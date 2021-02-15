@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 * {
   box-sizing: border-box;
 }
@@ -85,3 +86,101 @@ a:active {
 ol {
   text-align: center;
 }
+=======
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(17, 5, 16);
+  margin: 0px;
+  padding: 0px;
+}
+main {
+  padding: 50px;
+  margin: 20px;
+}
+div {
+  background-color: rgb(46, 118, 146);
+}
+
+hr {
+  /* notes */
+  height: 10px;
+  border: whitesmoke, 20px, stroke;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.center {
+  /* class that is put in headshot to center*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+header {
+  background-position: center;
+}
+
+h1,
+h2 {
+  /* group h tags for same attributes*/
+  color: rgb(35, 6, 63);
+  text-align: center;
+}
+
+h1 {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+h2 {
+  font-family: fantasy strong;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(154, 91, 214);
+}
+h6 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(154, 91, 214);
+}
+nav {
+  color: rgb(154, 91, 214);
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+ul {
+  /* unordered list*/
+  color: cyan;
+  text-align: center;
+  list-style: none;
+}
+
+a:link {
+  color: hsl(120, 79%, 50%);
+}
+a:visited {
+  color: hsl(0, 81%, 38%);
+}
+a:hover {
+  color: hsl(61, 76%, 59%);
+}
+a:active {
+  color: hsl(313, 70%, 58%);
+}
+
+ol {
+  /* ordered list */
+  text-align: center;
+}
+>>>>>>> Stashed changes
